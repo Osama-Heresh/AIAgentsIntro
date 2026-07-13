@@ -1,0 +1,6 @@
+{
+  "name": "AI Agents Platform",
+  "description": "A premium enterprise-grade marketing platform for deploying autonomous AI agents in manufacturing, healthcare, finance, logistics, and more across the Middle East and worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
